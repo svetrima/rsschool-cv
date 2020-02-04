@@ -30,3 +30,15 @@ My goal is to get a job in the field Front-end development.
 * Git
 
 ---
+
+### Education:
+Belarusian state pedagogical university named after Maxim Tank - faculty of physical education
+
+---
+### Self education:  
+courses HTML, CSS - geekbrains.ru (i have a certificate),  
+htmlacademy.ru, codeacademy.com, openedu.ru (web development).  
+tasks (html) - itmathrepetitor.ru  
+courses language - duolingo, lingualeo 
+
+---
