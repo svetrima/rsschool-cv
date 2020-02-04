@@ -42,3 +42,14 @@ tasks (html) - itmathrepetitor.ru
 courses language - duolingo, lingualeo 
 
 ---
+### Experience:  
+Geekbrains project - http://svetrima.github.io/gkbrains_project/index.html  
+Description: multi-page site online store. Used: slider (CSS), fontawesome, icomoon. NO JS.  
+My projects:  
+* svetrima.github.io/projects/Corporate_project/index.html  
+Description: used in the header - JS. Fontawesome.  
+More projects in my repository.
+
+---
+### English
+higher elementary but lower pre-intermediate
