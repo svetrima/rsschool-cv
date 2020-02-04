@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Lato', 'Arial', serif;
+    font-size: 16px;
+    min-width: 100%;
+
+}
+
+.container {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+header {
+    background-image: url("img/hero-bg.jpg");
+    background-size: cover;
+}
+
+header .description {
+    width: 90%;
+    padding-bottom: 50px;
+}
+
+p {
+    margin: 15px;
+}
+
+h1 {
+    text-align: center;
+    padding: 20px 0;
+}
+
+figure {
+    text-align: center;
+}
+
+figure img {
+    border-radius: 20%;
+}
+
+a {
+    text-decoration: none;
+    color: cornflowerblue;
+}
+
+a:hover {
+    color: darkblue;
+}
+
+section {
+    padding: 20px 10px;
+
+}
+section:nth-child(2n){
+     background-color: #F0FFFF;
+}
+h3,
+h4 {
+    text-align: center;
+}
+
+.user-contacts {
+    padding: 20px 0;
+    margin-top: -20px;
+}
+
+.user-education h4 {
+    margin-top: 10px;
+}
+
+.h-block {
+    display: block;
+    margin: 10px;
+}
+
+.contact-email,
+.footer-email {
+    background-image: url("img/icon-email-header.svg");
+    padding-left: 30px;
+    background-repeat: no-repeat;
+}
+
+.contact-phone,
+.footer-phone {
+    background-image: url("img/icon-phone-header.svg");
+    padding-left: 30px;
+    background-repeat: no-repeat;
+}
+
+.contact-github,
+.footer-github {
+    background-image: url("img/icon-github.svg");
+    padding-left: 30px;
+    background-repeat: no-repeat;
+}
+
+
+
+li {
+    list-style-type: none;
+    padding-left: 15px;
+}
+
+footer {
+    background-color: lightgray;
+    padding: 30px;
+}
+
+.f-block {
+    margin: 15px;
+    display: inline-block;
+}
