@@ -5,7 +5,7 @@
 
 body {
     font-family: 'Lato', 'Arial', serif;
-    font-size: 16px;
+    font-size: 20px;
     min-width: 100%;
 
 }
@@ -13,6 +13,7 @@ body {
 .container {
     max-width: 1024px;
     margin: 0 auto;
+    padding-left: 50px;
 }
 
 header {
@@ -26,7 +27,8 @@ header .description {
 }
 
 p {
-    margin: 15px;
+    margin: 15px 50px;
+    font-size: 24px;
 }
 
 h1 {
@@ -45,6 +47,7 @@ figure img {
 a {
     text-decoration: none;
     color: cornflowerblue;
+    font-size: 24px;
 }
 
 a:hover {
@@ -55,9 +58,11 @@ section {
     padding: 20px 10px;
 
 }
-section:nth-child(2n){
-     background-color: #F0FFFF;
+
+section:nth-child(2n) {
+    background-color: #F0FFFF;
 }
+
 h3,
 h4 {
     text-align: center;
@@ -98,7 +103,9 @@ h4 {
     background-repeat: no-repeat;
 }
 
-
+ul {
+    margin-left: 35px;
+}
 
 li {
     list-style-type: none;
